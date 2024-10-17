@@ -14,3 +14,11 @@ The paper describing the dataset will be published soon. Future uses should ment
 ### Used in: 
 - [TiLense-4BlackBox-VLM](https://github.com/Sdamirsa/TiLense-4BlackBox-VLM) to test the validation of a model-agnostic approach for explaining important regions for prediction tasks, when using vision language models. 
 
+## Team
+
+- Shabnam Shahrokh; shabnamshahrokh@gmail.com; 0000-0002-3420-5608
+- Dorsa Alijanzadeh; Dorsa.alijanzadeh@gmail.com; 0000-0002-8568-133X
+- Ghasemzade
+- Seyed Amir Ahmad Safavi-Naini; sdamirsa@ymail.com; 0000-0001-9295-9283
+
+_Images are provided by the Research Institute for Gastroenterology and Liver Diseases and the example images adhered to the ethical approval of Shahid Beheshti University of Medical Sciences (IR.SBMU.RIGLD.REC.1401.044)._

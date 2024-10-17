@@ -12,5 +12,5 @@ The paper describing the dataset will be published soon. Future uses should ment
 
 
 ### Used in: 
-- [XAI-4blackBox-LLM](https://github.com/Sdamirsa/XAI_4blackBox_LLM) to test the validation of a model-agnostic approach for explaining important regions for prediction tasks, when using vision language models. 
+- [TiLense-4BlackBox-VLM](https://github.com/Sdamirsa/TiLense-4BlackBox-VLM) to test the validation of a model-agnostic approach for explaining important regions for prediction tasks, when using vision language models. 
 

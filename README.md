@@ -18,7 +18,7 @@ The paper describing the dataset will be published soon. Future uses should ment
 
 - Shabnam Shahrokh; shabnamshahrokh@gmail.com; 0000-0002-3420-5608
 - Dorsa Alijanzadeh; Dorsa.alijanzadeh@gmail.com; 0000-0002-8568-133X
-- Ghasemzade
+- Ali Ghasemzadeh; Ali.ghasemzadeh2194@yahoo.com
 - Seyed Amir Ahmad Safavi-Naini; sdamirsa@ymail.com; 0000-0001-9295-9283
 
 _Images are provided by the Research Institute for Gastroenterology and Liver Diseases and the example images adhered to the ethical approval of Shahid Beheshti University of Medical Sciences (IR.SBMU.RIGLD.REC.1401.044)._
